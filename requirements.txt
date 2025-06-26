@@ -1,0 +1,5 @@
+fastapi[standard]
+uvicorn
+gunicorn
+pydantic
+jinja2
